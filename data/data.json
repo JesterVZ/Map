@@ -1,0 +1,31 @@
+[
+	{
+		"coordinates": [55.73, 37.75],
+		"rating": 100
+	},
+	{
+		"coordinates": [55.60, 37.80],
+		"rating": 95
+	},
+	{
+		"coordinates": [55.55, 37.95],
+		"rating": 20
+	},
+	{
+		"coordinates": [55.30, 37.70],
+		"rating": 39
+	},
+	{
+		"coordinates": [55.45, 37.54],
+		"rating": 44
+	},
+	{
+		"coordinates": [55.72, 37.71],
+		"rating": 72
+	},
+	{
+		"coordinates": [55.80, 37.50],
+		"rating": 50
+	}
+
+]
